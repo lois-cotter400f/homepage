@@ -1,0 +1,8 @@
+# Dev Notes
+
+Personal development log — notes, findings, and ongoing work.
+
+## 2026-04-08
+- Improved log message formatting
+- Removed unused variable declarations
+- Cross-checked behaviour against spec
