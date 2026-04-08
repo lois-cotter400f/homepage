@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Improved log message formatting
 - Removed unused variable declarations
 - Cross-checked behaviour against spec
+
+## 2026-04-08
+- Noted known limitation in docs
